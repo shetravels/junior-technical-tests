@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Intégration Web
----
-
-[Accueil](/) > Tests d'intégration web
-
+title: Tests Intégration Web
+breadcrumbs:
+  - {label: Accueil, path: /}
+  - {label: Intégration Web, path: null}
 ---
 
 ## 1. Tableau de prix
@@ -29,6 +28,7 @@ L'équipe marketing de She Travels va proposer une offre de placement de produit
 - Vous pouvez nous poser des questions sur l'exercice si besoin.
 - Faites-vous plaisir !
 
+---
 
 ## 2. Page recrutement
 
@@ -41,7 +41,7 @@ Vous êtes développeur au sein de l'équipe technique She Travels. L'entreprise
     - La page de listing des offres.
     - 1 page de contenu d'une offre (en reprenant le contenu de la page [https://www.copinesdevoyage.com/recrutement/developpeur-fullstack-junior](https://www.copinesdevoyage.com/recrutement/developpeur-fullstack-junior)).
 
-#### Livrable : 
+#### Livrable :
 
 - Utiliser Bootstrap 4.
 - Les pages doivent être accessibles sur tous les écrans (ordinateur & mobile).

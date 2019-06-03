@@ -1,10 +1,9 @@
 ---
 layout: default
-title: PHP
----
-
-[Accueil](/) > Tests PHP
-
+title: Tests PHP
+breadcrumbs:
+  - {label: Accueil, path: /}
+  - {label: PHP, path: null}
 ---
 
 ## 1. Coupon de réduction
@@ -21,7 +20,7 @@ Un opération promotionnelle approche et nous devons créer un système de coupo
     - ne peut être utilisé que jusqu'à une date donnée
     - un coupon peut-être annulé / révoqué
     - un coupon révoqué ne peut plus être utilisé
-- **Le candidat ne doit pas consacrer plus de 3 heures à l'exercice.**
+- **Vous ne devez pas consacrer plus de 3 heures à l'exercice.**
 
 #### Livrable :
 

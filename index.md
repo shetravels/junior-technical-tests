@@ -1,18 +1,16 @@
 ---
 layout: default
 title: Tests techniques
----
-
-Accueil
-
+breadcrumbs:
+  - {label: Accueil, path: null}
 ---
 
 
 ### Intégrations Web
 
-Tests techniques d'intégration Web disponibles ici : [/integration.html](./integration.md).
+Tests techniques d'intégration Web disponibles ici : [Integration Web](./integration.md).
 
 
 ### PHP
 
-Tests techniques PHP disponibles ici : [/php.html](./php.md).
+Tests techniques PHP disponibles ici : [PHP](./php.md).
