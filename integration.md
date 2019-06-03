@@ -1,20 +1,27 @@
-# Tests d'intégration
+---
+layout: default
+title: Intégration Web
+---
 
-### 1. Tableau de prix
+[Accueil](/) > Tests d'intégration web
+
+---
+
+## 1. Tableau de prix
 
 L'équipe marketing de She Travels va proposer une offre de placement de produit à ses partenaires. Pour cela, nous devons créer un tableau de prix :
 
 ![pricing](img/pricing.jpg)
 
-##### Votre mission : 
+#### Votre mission :
 
-- Réaliser le tableau de prix en vous rapprochant au maximum de l'image (limitez-vous à 2h maximum).
+- Réaliser le tableau de prix en vous rapprochant au maximum de la maquette ci-dessus (limitez-vous à 2h maximum).
 
-##### Requis : 
+#### Livrable :
 
 - Livrer le dossier de travail complet au format `.zip` (le dossier doit contenir un fichier `.html` lisible dans un navigateur avec les liens CSS & co).
 
-##### À savoir : 
+#### À savoir :
 
 - Le rendu ne doit pas être responsive.
 - La couleur, les ombres et les tailles de textes peuvent être approximatifs.
@@ -22,26 +29,25 @@ L'équipe marketing de She Travels va proposer une offre de placement de produit
 - Vous pouvez nous poser des questions sur l'exercice si besoin.
 - Faites-vous plaisir !
 
----
 
-### 2. Page recrutement
+## 2. Page recrutement
 
-Vous êtes développeur au sein de l'équipe technique She Travels. L'entreprise recrute de plus en plus et vous avez envie d'améliorer les pages de recrutement du site : https://www.copinesdevoyage.com/recrutement pour que la lecture soit plus agréable (limitez-vous à 3h maximum).
+Vous êtes développeur au sein de l'équipe technique She Travels. L'entreprise recrute de plus en plus et vous avez envie d'améliorer les pages de recrutement du site : [https://www.copinesdevoyage.com/recrutement](https://www.copinesdevoyage.com/recrutement) pour que la lecture soit plus agréable (limitez-vous à 3h maximum).
 
-##### Votre mission : 
+#### Votre mission :
 
-- Vous proposerez une version plus agréable pour présenter nos offres d'emploies.
-- Vous créerez : 
+- Vous proposerez une version plus agréable pour présenter nos offres d'emplois.
+- Vous créerez :
     - La page de listing des offres.
-    - 1 page de contenu d'une offre (en reprenant le contenu de la page https://www.copinesdevoyage.com/recrutement/developpeur-fullstack-junior).
+    - 1 page de contenu d'une offre (en reprenant le contenu de la page [https://www.copinesdevoyage.com/recrutement/developpeur-fullstack-junior](https://www.copinesdevoyage.com/recrutement/developpeur-fullstack-junior)).
 
-##### Requis : 
+#### Livrable : 
 
 - Utiliser Bootstrap 4.
 - Les pages doivent être accessibles sur tous les écrans (ordinateur & mobile).
 - Livrer le dossier de travail complet au format `.zip` (le dossier doit contenir 2 fichiers `.html` lisibles dans un navigateur avec les liens CSS & co).
 
-##### À savoir : 
+#### À savoir :
 
 - Vous êtes libre d'utiliser le language de développement que vous souhaitez.
 - La manière d'inclure Bootstrap dans le projet est libre.
